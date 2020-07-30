@@ -1,0 +1,32 @@
+{
+  "id": "81af5e38-0273-4e00-a5cb-f99f77cd69fa",
+  "name": "Get Signin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1536696052,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_SIGN_IN"
+    }
+  ]
+}

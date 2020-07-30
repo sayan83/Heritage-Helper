@@ -1,0 +1,234 @@
+[
+  {
+    "id": "3f6eac31-42e8-49a6-bb50-0b865e79e3b9",
+    "data": [
+      {
+        "text": "show me time table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537282737
+  },
+  {
+    "id": "356a6b19-d59c-4b6b-828f-04b24801180a",
+    "data": [
+      {
+        "text": "Monday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " routine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537282737
+  },
+  {
+    "id": "9163d2de-efbc-44ef-b9a1-ef5b96680d8e",
+    "data": [
+      {
+        "text": "Monday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " time table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537282737
+  },
+  {
+    "id": "7dcb2ec4-063e-4155-bea7-f6b5cc3cfcfa",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s time table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537282285
+  },
+  {
+    "id": "1a189ea1-7c31-426d-9c21-e4e95a29c045",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s time table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537282285
+  },
+  {
+    "id": "aab7c780-5095-4311-86e3-876cd2428b68",
+    "data": [
+      {
+        "text": "Time table ",
+        "userDefined": false
+      },
+      {
+        "text": "of monday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537282285
+  },
+  {
+    "id": "dbfbeb1f-0c69-462f-a546-46edff8c569c",
+    "data": [
+      {
+        "text": "Today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s time table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537282285
+  },
+  {
+    "id": "8202dd06-7b95-4e88-a433-a0a8297e5e95",
+    "data": [
+      {
+        "text": "routine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536599804
+  },
+  {
+    "id": "a7c4b2bd-6890-4aa0-afb5-c628ec66c4b6",
+    "data": [
+      {
+        "text": "show me routine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536599804
+  },
+  {
+    "id": "5cade0fd-a68d-48bd-9102-24e43cfd9f6b",
+    "data": [
+      {
+        "text": "show me routine ",
+        "userDefined": false
+      },
+      {
+        "text": "of day after tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536870037
+  },
+  {
+    "id": "524264bd-5d04-4e8f-baba-c15bb68c5456",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrows",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " routine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536870037
+  },
+  {
+    "id": "64e9bf2d-aa77-4ab4-9549-c3eba5b98e75",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s routine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536870037
+  },
+  {
+    "id": "ed5e3029-fc8a-4f34-aa3b-721fc82db834",
+    "data": [
+      {
+        "text": "tomorrows",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " routine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536870037
+  }
+]

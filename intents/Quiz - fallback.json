@@ -1,0 +1,33 @@
+{
+  "id": "8986fb00-03fa-4026-b4dc-ff90a2f02d56",
+  "parentId": "8a7da21d-3c18-4711-828e-e995162426fc",
+  "rootParentId": "8a7da21d-3c18-4711-828e-e995162426fc",
+  "name": "Quiz - fallback",
+  "auto": false,
+  "contexts": [
+    "Quiz-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Quiz.Quiz-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": true,
+  "events": []
+}

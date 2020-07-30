@@ -1,0 +1,92 @@
+{
+    "id": "18d1713a-5731-4a3a-a864-e772b5b83d3c",
+    "name": "All_clubs",
+    "auto": true,
+    "contexts": [],
+    "responses": [
+      {
+        "resetContexts": false,
+        "affectedContexts": [
+          {
+            "name": "All_clubs-followup",
+            "parameters": {},
+            "lifespan": 2
+          }
+        ],
+        "parameters": [],
+        "messages": [
+          {
+            "type": 0,
+            "speech": []
+          }
+        ],
+        "defaultResponsePlatforms": {},
+        "speech": []
+      }
+    ],
+    "priority": 500000,
+    "cortanaCommand": {
+      "navigateOrService": "NAVIGATE",
+      "target": ""
+    },
+    "webhookUsed": true,
+    "webhookForSlotFilling": false,
+    "lastUpdate": 1536751834,
+    "fallbackIntent": false,
+    "events": [],
+    "userSays": [
+      {
+        "id": "9894ea10-1986-42a1-a09d-4d5480045f01",
+        "data": [
+          {
+            "text": "tell me about the clubs"
+          }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 1534527503,
+        "isAuto": false
+      },
+      {
+        "id": "72227e92-c69c-4dd8-89be-b09d966ac2e9",
+        "data": [
+          {
+            "text": "what are the clubs available"
+          }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 1534516325,
+        "isAuto": false
+      },
+      {
+        "id": "a663730f-1480-4749-8bda-111c37726dd2",
+        "data": [
+          {
+            "text": "tell me about all clubs"
+          }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 1534516325,
+        "isAuto": false
+      },
+      {
+        "id": "e7131692-8807-4399-9022-5462a9516e9b",
+        "data": [
+          {
+            "text": "show me all clubs"
+          }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 1534516325,
+        "isAuto": false
+      }
+    ],
+    "followUpIntents": [],
+    "liveAgentHandoff": false,
+    "endInteraction": false,
+    "templates": []
+  }
+  

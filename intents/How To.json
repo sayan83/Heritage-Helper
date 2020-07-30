@@ -1,0 +1,37 @@
+{
+  "id": "7c2ff897-3923-4acc-b31d-e13942c40e15",
+  "name": "How To",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1ed22e6b-fc5b-44b2-bc4c-033d1bc4a502",
+          "required": false,
+          "dataType": "@Activity",
+          "name": "Activity",
+          "value": "$Activity",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536397782,
+  "fallbackIntent": false,
+  "events": []
+}

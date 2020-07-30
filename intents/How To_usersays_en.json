@@ -1,0 +1,56 @@
+[
+  {
+    "id": "8d6bc2d0-af9b-4fe0-9746-962d5805aea2",
+    "data": [
+      {
+        "text": "how do I ",
+        "userDefined": false
+      },
+      {
+        "text": "join the Developer Students Club",
+        "alias": "Activity",
+        "meta": "@Activity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1532400735
+  },
+  {
+    "id": "dd3aa8d4-850d-4c9f-a9be-df40eb5103be",
+    "data": [
+      {
+        "text": "how do I ",
+        "userDefined": false
+      },
+      {
+        "text": "join DSC",
+        "alias": "Activity",
+        "meta": "@Activity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1532400735
+  },
+  {
+    "id": "a5cfc961-6743-4c93-b62d-9bf0f0baabed",
+    "data": [
+      {
+        "text": "how to ",
+        "userDefined": false
+      },
+      {
+        "text": "join DSC",
+        "alias": "Activity",
+        "meta": "@Activity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1532400735
+  }
+]

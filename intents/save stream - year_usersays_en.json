@@ -1,0 +1,120 @@
+[
+  {
+    "id": "25de3095-7161-427a-8730-8fbbb23648f8",
+    "data": [
+      {
+        "text": "stream_year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1536969292
+  },
+  {
+    "id": "2202a9da-c316-4940-a363-e19deb8044ef",
+    "data": [
+      {
+        "text": "final",
+        "alias": "stream_year",
+        "meta": "@stream_year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536963014
+  },
+  {
+    "id": "27d6a62c-20a0-46a4-8744-db27023ff8e2",
+    "data": [
+      {
+        "text": "freshman",
+        "alias": "stream_year",
+        "meta": "@stream_year",
+        "userDefined": true
+      },
+      {
+        "text": " year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536963014
+  },
+  {
+    "id": "ea9a74bf-59ed-4262-b351-44c5d99e2111",
+    "data": [
+      {
+        "text": "1st",
+        "alias": "stream_year",
+        "meta": "@stream_year",
+        "userDefined": false
+      },
+      {
+        "text": " year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536963014
+  },
+  {
+    "id": "2d49284c-cc39-4e41-ac7a-5bde5f72a461",
+    "data": [
+      {
+        "text": "4th",
+        "alias": "stream_year",
+        "meta": "@stream_year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536963014
+  },
+  {
+    "id": "abe705b0-5b0c-4d2f-9ee6-15e3efd217a9",
+    "data": [
+      {
+        "text": "3rd",
+        "alias": "stream_year",
+        "meta": "@stream_year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536963014
+  },
+  {
+    "id": "a2b7e0ab-d227-4787-afca-d262929112f5",
+    "data": [
+      {
+        "text": "1st",
+        "alias": "stream_year",
+        "meta": "@stream_year",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536963014
+  },
+  {
+    "id": "1ebecdb4-d607-42ac-b03f-5d030e195f19",
+    "data": [
+      {
+        "text": "2nd",
+        "alias": "stream_year",
+        "meta": "@stream_year",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536963014
+  }
+]

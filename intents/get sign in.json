@@ -1,0 +1,28 @@
+{
+  "id": "cf40aea7-1906-42fb-b994-6234f87ea647",
+  "name": "get sign in",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1536681584,
+  "fallbackIntent": false,
+  "events": []
+}

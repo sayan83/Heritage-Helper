@@ -1,0 +1,37 @@
+{
+  "id": "a05314db-502f-45c1-b634-849baecb9a7e",
+  "name": "Where is",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "670131be-5246-4408-bef1-7967270f5021",
+          "required": false,
+          "dataType": "@Location",
+          "name": "Location",
+          "value": "$Location",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "wait for $Location"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536397789,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,192 @@
+[
+  {
+    "id": "fc8b8878-3017-4c08-91e9-b8ce43b0f978",
+    "data": [
+      {
+        "text": "where is the ",
+        "userDefined": false
+      },
+      {
+        "text": "ECE Dept",
+        "alias": "Location",
+        "meta": "@Location",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1532365483
+  },
+  {
+    "id": "dc6c2760-4966-4339-9d7e-21c419ea3501",
+    "data": [
+      {
+        "text": "where is the ",
+        "userDefined": false
+      },
+      {
+        "text": "ECE Department",
+        "alias": "Location",
+        "meta": "@Location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1532365483
+  },
+  {
+    "id": "e5b916d9-b704-4b2e-8bd1-c493cb83545b",
+    "data": [
+      {
+        "text": "Help me find the ",
+        "userDefined": false
+      },
+      {
+        "text": "HMTS Department",
+        "alias": "Location",
+        "meta": "@Location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1532365141
+  },
+  {
+    "id": "f95c0309-48c9-434d-b728-8d7ae4ca510c",
+    "data": [
+      {
+        "text": "Where is ",
+        "userDefined": false
+      },
+      {
+        "text": "Electronics HOD",
+        "alias": "Location",
+        "meta": "@Location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1532365141
+  },
+  {
+    "id": "2cfc321e-ecc7-4c6c-9aa0-d7dbd1432d85",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "CHE FR",
+        "alias": "Location",
+        "meta": "@Location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1532365141
+  },
+  {
+    "id": "b6fa00ca-b1e5-4464-b10e-ca876865fd24",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "workshop",
+        "alias": "Location",
+        "meta": "@Location",
+        "userDefined": false
+      },
+      {
+        "text": " class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1532365141
+  },
+  {
+    "id": "a77a2b07-d332-4dfb-b9d1-8b4b8bee8cd1",
+    "data": [
+      {
+        "text": "help me find ",
+        "userDefined": false
+      },
+      {
+        "text": "the Chemical Engineering faculty room",
+        "alias": "Location",
+        "meta": "@Location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1532365141
+  },
+  {
+    "id": "6256d386-b062-4050-8f3c-65983cda2d46",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "computer science hod",
+        "alias": "Location",
+        "meta": "@Location",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1532365141
+  },
+  {
+    "id": "326b5d5b-0f65-4b37-8be7-444e6c748c67",
+    "data": [
+      {
+        "text": "Where is ",
+        "userDefined": false
+      },
+      {
+        "text": "CSE HOD",
+        "alias": "Location",
+        "meta": "@Location",
+        "userDefined": false
+      },
+      {
+        "text": " room?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1532365141
+  }
+]

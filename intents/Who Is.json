@@ -1,0 +1,37 @@
+{
+  "id": "3c9c69da-eec2-4c06-91ac-748e382b73b4",
+  "name": "Who Is",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f9aa8113-7fd0-48ca-bd2a-968843581041",
+          "required": true,
+          "dataType": "@Person",
+          "name": "Person",
+          "value": "$Person",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536397794,
+  "fallbackIntent": false,
+  "events": []
+}

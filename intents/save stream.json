@@ -1,0 +1,51 @@
+{
+  "id": "cb769e1f-7fda-42d2-82e7-e92b8c9f0b0d",
+  "name": "save stream",
+  "auto": true,
+  "contexts": [
+    "save_stream"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "save_stream",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "savestream-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "57707614-df5f-43f8-ba6e-eb9fcdaae15e",
+          "required": true,
+          "dataType": "@stream",
+          "name": "stream",
+          "value": "$stream",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536970831,
+  "fallbackIntent": false,
+  "events": []
+}

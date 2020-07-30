@@ -1,0 +1,42 @@
+[
+  {
+    "id": "49580556-ab7b-4e35-a43e-b72602b93c95",
+    "data": [
+      {
+        "text": "IT",
+        "alias": "stream",
+        "meta": "@stream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536961569
+  },
+  {
+    "id": "c0c3267c-e1f6-4af9-a8d5-8bb9678df29d",
+    "data": [
+      {
+        "text": "CSE",
+        "alias": "stream",
+        "meta": "@stream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536961569
+  },
+  {
+    "id": "59c22729-e0f1-4d68-97a6-8d84ec85779a",
+    "data": [
+      {
+        "text": "stream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1536969136
+  }
+]

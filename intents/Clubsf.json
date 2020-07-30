@@ -1,0 +1,75 @@
+{
+    "id": "b1d4304a-4083-4eb0-9fde-0fd83863d029",
+    "parentId": "18d1713a-5731-4a3a-a864-e772b5b83d3c",
+    "rootParentId": "18d1713a-5731-4a3a-a864-e772b5b83d3c",
+    "name": "Clubsf",
+    "auto": true,
+    "contexts": [
+      "All_clubs-followup"
+    ],
+    "responses": [
+      {
+        "resetContexts": false,
+        "action": "All_clubs.All_clubs-custom",
+        "affectedContexts": [],
+        "parameters": [],
+        "messages": [
+          {
+            "type": 0,
+            "speech": []
+          }
+        ],
+        "defaultResponsePlatforms": {},
+        "speech": []
+      }
+    ],
+    "priority": 500000,
+    "webhookUsed": true,
+    "webhookForSlotFilling": false,
+    "lastUpdate": 1536781024,
+    "fallbackIntent": false,
+    "events": [],
+    "userSays": [
+      {
+        "id": "c68c3449-6206-42aa-a5c7-8e07288a74de",
+        "data": [
+          {
+            "text": "show rest of the clubs"
+          }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 1536781024,
+        "isAuto": false
+      },
+      {
+        "id": "b1214ba1-a27e-4e42-99e0-7317524a59e0",
+        "data": [
+          {
+            "text": "show remaining clubs"
+          }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 1536781024,
+        "isAuto": false
+      },
+      {
+        "id": "d08f1ea2-627b-4c83-9d97-1ca596fee6d7",
+        "data": [
+          {
+            "text": "show more clubs"
+          }
+        ],
+        "isTemplate": false,
+        "count": 0,
+        "updated": 1536781024,
+        "isAuto": false
+      }
+    ],
+    "followUpIntents": [],
+    "liveAgentHandoff": false,
+    "endInteraction": false,
+    "templates": []
+  }
+  

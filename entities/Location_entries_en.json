@@ -1,0 +1,309 @@
+[
+  {
+    "value": "CHE FR",
+    "synonyms": [
+      "chemical engineering faculty room",
+      "CHE FR",
+      "CHE faculty room"
+    ]
+  },
+  {
+    "value": "CSE HOD",
+    "synonyms": [
+      "CSE HOD",
+      "Computer Science Head of Department"
+    ]
+  },
+  {
+    "value": "Principal Office",
+    "synonyms": [
+      "Principal Office",
+      "Principal room",
+      "Principal\u0027s Office",
+      "Principal\u0027s Room"
+    ]
+  },
+  {
+    "value": "Admin Office",
+    "synonyms": [
+      "Administrator office",
+      "Admin Office",
+      "admin  room",
+      "admin\u0027s room"
+    ]
+  },
+  {
+    "value": "TPO Office",
+    "synonyms": [
+      "TPO Office",
+      "TPO\u0027s room"
+    ]
+  },
+  {
+    "value": "CSE FR",
+    "synonyms": [
+      "CSE FR",
+      "computer sci faculty room",
+      "Computer science engineering faculty room"
+    ]
+  },
+  {
+    "value": "CSE Department",
+    "synonyms": [
+      "CSE Department",
+      "CSE dept",
+      "cse Dept",
+      "CSE classes",
+      "computer science department"
+    ]
+  },
+  {
+    "value": "ECE HOD",
+    "synonyms": [
+      "ECE HOD",
+      "Electronics hod",
+      "Electronics and communication HOD",
+      "Electronics engineering hod"
+    ]
+  },
+  {
+    "value": "ECE FR",
+    "synonyms": [
+      "ECE FR",
+      "ECE Faculty room",
+      "Electronics Faculty room"
+    ]
+  },
+  {
+    "value": "ECE Department",
+    "synonyms": [
+      "ECE Department",
+      "Electronics and communication department",
+      "ECE dept",
+      "electronics dept"
+    ]
+  },
+  {
+    "value": "IT HOD",
+    "synonyms": [
+      "IT HOD",
+      "Information Tech HOD",
+      "IT head of department"
+    ]
+  },
+  {
+    "value": "IT FR",
+    "synonyms": [
+      "IT FR",
+      "IT faculty room",
+      "Information Technology Faculty room"
+    ]
+  },
+  {
+    "value": "IT Department",
+    "synonyms": [
+      "IT Department",
+      "it department",
+      "IT dept",
+      "Information Technology department"
+    ]
+  },
+  {
+    "value": "CHE HOD",
+    "synonyms": [
+      "CHE HOD",
+      "chemical engineering head of department",
+      "Chem head of dept"
+    ]
+  },
+  {
+    "value": "CHE Department",
+    "synonyms": [
+      "CHE Department",
+      "chemical department",
+      "chemical engineering dept"
+    ]
+  },
+  {
+    "value": "PHY HOD",
+    "synonyms": [
+      "PHY HOD",
+      "physics head of department",
+      "phy head of dept"
+    ]
+  },
+  {
+    "value": "PHY FR",
+    "synonyms": [
+      "PHY FR",
+      "physics faculty room",
+      "phy faculty room"
+    ]
+  },
+  {
+    "value": "PHY Department",
+    "synonyms": [
+      "PHY Department",
+      "physics department",
+      "phy dept"
+    ]
+  },
+  {
+    "value": "MTH HOD",
+    "synonyms": [
+      "MTH HOD",
+      "Maths Head of Department",
+      "Maths hod"
+    ]
+  },
+  {
+    "value": "MTH FR",
+    "synonyms": [
+      "MTH FR",
+      "maths faculty room",
+      "Maths faculty place",
+      "Math faculty room"
+    ]
+  },
+  {
+    "value": "MTH Department",
+    "synonyms": [
+      "MTH Department",
+      "Maths department",
+      "maths classes"
+    ]
+  },
+  {
+    "value": "HMTS HOD",
+    "synonyms": [
+      "HMTS HOD",
+      "HMTS head of department",
+      "hmts head of dept",
+      "humanities department"
+    ]
+  },
+  {
+    "value": "HMTS FR",
+    "synonyms": [
+      "HMTS FR",
+      "Humanities faculty room"
+    ]
+  },
+  {
+    "value": "HMTS Department",
+    "synonyms": [
+      "HMTS Department",
+      "Humanities department",
+      "hmts dept",
+      "hmts classes"
+    ]
+  },
+  {
+    "value": "Workshop",
+    "synonyms": [
+      "Workshop"
+    ]
+  },
+  {
+    "value": "ME HOD",
+    "synonyms": [
+      "Mechanical Engineering Head Of Department",
+      "Head Of Department, Mechanical Engineering",
+      "Mechanical Engineering HOD"
+    ]
+  },
+  {
+    "value": "ME FR",
+    "synonyms": [
+      "Mechanial Engineering Faculty Room",
+      "Mechanical Engineering Staff Room",
+      "ME Faculty Room",
+      "ME Staff Room"
+    ]
+  },
+  {
+    "value": "ME Department",
+    "synonyms": [
+      "ME Department",
+      "Mechanical Engineering department",
+      "chemical engineering dept"
+    ]
+  },
+  {
+    "value": "Civil HOD",
+    "synonyms": [
+      "Civil Engineering Head Of Department",
+      "Head Of Department, Civil Engineering",
+      "Civil Engineering HOD"
+    ]
+  },
+  {
+    "value": "Civil FR",
+    "synonyms": [
+      "Civil Engineering Faculty Room",
+      "Civil Engineering Staff Room",
+      "Civil Faculty Room",
+      "Civil Staff Room"
+    ]
+  },
+  {
+    "value": "Civil Department",
+    "synonyms": [
+      "Civil Department",
+      "Civil Engineering department",
+      "civil engineering dept"
+    ]
+  },
+  {
+    "value": "Elec HOD",
+    "synonyms": [
+      "Electrical Engineering Head Of Department",
+      "Head Of Department, Electrical Engineering",
+      "Electrical Engineering HOD",
+      "EEE HOD"
+    ]
+  },
+  {
+    "value": "Elec FR",
+    "synonyms": [
+      "Electrical Engineering Faculty Room",
+      "Electrical Engineering Staff Room",
+      "Electrical Faculty Room",
+      "Electrical Staff Room\".\"EEE fasculty room"
+    ]
+  },
+  {
+    "value": "Elec Department",
+    "synonyms": [
+      "Electrical Department",
+      "Electrical Engineering department",
+      "Electrical engineering dept\".\"EEE department"
+    ]
+  },
+  {
+    "value": "AEIE HOD",
+    "synonyms": [
+      "Applied Electronics and Instrumentation Engineering Head Of Department",
+      "Head Of Department",
+      "Applied Electronics and Instrumentation Engineering",
+      "Applied Electronics and Instrumentation Engineering HOD"
+    ]
+  },
+  {
+    "value": "AEIE FR",
+    "synonyms": [
+      "Applied Electronics and Instrumentation Engineering Faculty Room",
+      "Applied Electronics and Instrumentation Engineering Staff Room",
+      "AEIE Faculty Room",
+      "AEIE Staff Room"
+    ]
+  },
+  {
+    "value": "AEIE Department",
+    "synonyms": [
+      "AEIE Department",
+      "Applied Electronics and Instrumentation Engineering department",
+      "Applied Electronics \u0026 Instrumentation engineering dept"
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "ee8596ef-1853-4df0-a37f-6c8ac18f040f",
+  "name": "What\u0027s new",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "49ff4c7a-36bf-4208-b5b1-023451e8e295",
+          "required": false,
+          "dataType": "@Club",
+          "name": "Club",
+          "value": "$Club",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1536512150,
+  "fallbackIntent": false,
+  "events": []
+}

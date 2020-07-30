@@ -1,0 +1,33 @@
+{
+  "id": "5a680992-fe5e-4887-9f47-276f991c9b2e",
+  "parentId": "31536245-b181-45f6-a41e-dcbddc530a02",
+  "rootParentId": "31536245-b181-45f6-a41e-dcbddc530a02",
+  "name": "routine - custom",
+  "auto": true,
+  "contexts": [
+    "routine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "routine.routine-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

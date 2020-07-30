@@ -1,0 +1,42 @@
+{
+  "id": "e95dfb47-90df-45ba-b79a-1d8c4f953bbd",
+  "parentId": "5d51c17c-0c21-4063-ba44-021c9111a33b",
+  "rootParentId": "cb769e1f-7fda-42d2-82e7-e92b8c9f0b0d",
+  "name": "save stream - year",
+  "auto": true,
+  "contexts": [
+    "savestream-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "savestream.savestream-custom.savestream-custom-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a2ecc0d4-b2b7-43ae-9546-b43bc1a0ad00",
+          "required": false,
+          "dataType": "@stream_year",
+          "name": "stream_year",
+          "value": "$stream_year",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536969292,
+  "fallbackIntent": false,
+  "events": []
+}

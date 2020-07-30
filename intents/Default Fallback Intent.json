@@ -1,0 +1,38 @@
+{
+  "id": "d667bc25-e425-457f-84c3-f62779efe6ec",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I am not sure how to help with that. Try asking another question, or contact us to send feedback! You can always find us in the DSC. Just say: \"Join the Developer Students Club\"",
+            "Well... seems like they didn\u0027t program me to help you with that. Join the Developer Students Club and help them make the helper better. So much help! To do so, Just say: \"Join the Developer Students Club\"",
+            "While I don\u0027t know the answer to that, I definitely know the answer to:  \"How do I join the Developer Student\u0027s Club\". Wanna ask me?"
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {}
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1536397765,
+  "fallbackIntent": true,
+  "events": []
+}

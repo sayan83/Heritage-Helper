@@ -1,0 +1,130 @@
+{
+  "id": "ee8596ef-1853-4df0-a37f-6c8ac18f040f",
+  "name": "What's new",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "49ff4c7a-36bf-4208-b5b1-023451e8e295",
+          "required": false,
+          "dataType": "@Club",
+          "name": "Club",
+          "value": "$Club",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1536512150,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "fb204423-3a46-466f-8cdb-86d63de760b8",
+      "data": [
+        {
+          "text": "Whats new in "
+        },
+        {
+          "text": "ACM",
+          "alias": "Club",
+          "meta": "@Club",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1536475532,
+      "isAuto": false
+    },
+    {
+      "id": "66ab7573-500a-42e3-8933-d3e0ab9ccc68",
+      "data": [
+        {
+          "text": "What's new in "
+        },
+        {
+          "text": "DSC heritage",
+          "alias": "Club",
+          "meta": "@Club",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1536475532,
+      "isAuto": false
+    },
+    {
+      "id": "9f50bb45-c749-47ae-9bef-e0abf8f53a67",
+      "data": [
+        {
+          "text": "What's new in "
+        },
+        {
+          "text": "Rotaract",
+          "alias": "Club",
+          "meta": "@Club",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1536475532,
+      "isAuto": false
+    },
+    {
+      "id": "d9b7eab1-5003-4b0a-8c3b-9bbaa5171834",
+      "data": [
+        {
+          "text": "What's new in Prabhasvana"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1536512150,
+      "isAuto": false
+    },
+    {
+      "id": "fdac548d-26a9-4a0f-ae4a-b2d7dbbe5c4a",
+      "data": [
+        {
+          "text": "What's new in "
+        },
+        {
+          "text": "DSC",
+          "alias": "Club",
+          "meta": "@Club",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1536475532,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "templates": []
+}
